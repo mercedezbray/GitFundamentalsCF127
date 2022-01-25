@@ -13,3 +13,4 @@ Here is a collection of resources and helpful commands to know when working wih 
 - [git push](./commands/Push.md)
 - [git pull](./commands/Pull.md)
 - [git status](./commands/Status.md)
+- [git clone](./commands/Clone.md)
